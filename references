@@ -1,0 +1,13 @@
+1.	http://doc.akka.io/docs/akka-stream-and-http-experimental/2.0/scala/http/client-side/request-level.html
+
+2.	http://doc.akka.io/docs/akka/2.4/scala/http/client-side/connection-level.html#connection-level-api
+
+3.	http://alvinalexander.com/scala/how-to-communicate-send-messages-scala-akka-actors
+
+4.	http://alvinalexander.com/scala/how-to-access-http-response-headers-after-http-request-httpclient
+
+5.	http://doc.akka.io/docs/akka/current/scala/http/client-side/connection-level.html#request-response-cycle
+
+6. http://stackoverflow.com/
+
+7. https://github.com/centic9/jgit-cookbook/blob/master/src/main/java/org/dstadler/jgit/porcelain/CloneRemoteRepository.java
