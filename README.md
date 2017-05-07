@@ -1,4 +1,4 @@
-This repo contains the HW3 project i.e. **Code Search Engine** based on Elastic Search running in Google Cloud.
+This repo contains the project **Code Search Engine** based on Elastic Search running in Google Cloud.
 
 Project Members are: Abhijay Patne , Kruti Sharma, Sandeep Singh
 
